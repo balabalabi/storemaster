@@ -1,0 +1,13 @@
+com\up\stores\service\DistrictServiceTests.class
+com\up\stores\mapper\OrderMapperTests.class
+com\up\stores\mapper\UserMapperTests.class
+com\up\stores\StoresApplicationTests.class
+com\up\stores\service\UserServiceTests.class
+com\up\stores\service\AddressServiceTests.class
+com\up\stores\mapper\AddressMapperTests.class
+com\up\stores\service\ProductServiceTests.class
+com\up\stores\mapper\ProductMapperTests.class
+com\up\stores\service\CartServiceTests.class
+com\up\stores\mapper\CartMapperTests.class
+com\up\stores\mapper\DistrictMapperTests.class
+com\up\stores\service\OrderServiceTests.class
